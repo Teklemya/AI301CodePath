@@ -1,8 +1,8 @@
-# Contribution 1: [Immich Issue]
+# Contribution 1: Immich Issue
 
 **Contribution Number:** 1
 
-**Student:** [Yishak Teklemariam]
+**Student:** Yishak Teklemariam
 
 **Project:** Immich
 
