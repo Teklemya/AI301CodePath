@@ -1,4 +1,4 @@
-# Contribution [1]: [Immich Issue]
+# Contribution 1: [Immich Issue]
 
 **Contribution Number:** 1
 
